@@ -35,7 +35,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.app.hadoopexample.ProcessUnits</mainClass>
+							<mainClass>com.app.hadoopexample.SalesCountryDriver</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
